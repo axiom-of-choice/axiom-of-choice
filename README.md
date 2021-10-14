@@ -7,6 +7,8 @@
 
 ## Skills 👨‍💻
 * Using Python, SQL and R since 2018
+* Data Analysis
+* Relational databases
 * Critical thinking, decision-making and problem solving 
 * Communication and soft skills
 * Linux desktop user, and some linux server
@@ -14,6 +16,7 @@
 ## Currently learning about 🌱
 - Machine Learning
 - Cloud stuff: Azure and AWS
+- No SQL databases
 - Data Science
 - Software development
 <!---
