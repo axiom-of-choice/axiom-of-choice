@@ -14,10 +14,11 @@
 * Linux desktop user, and some linux server
 
 ## Currently learning about 🌱
-- Machine Learning
+- Machine Learning in the cloud
 - Cloud stuff: Azure and AWS
 - No SQL databases
 - Data Science
+- Docker and Kubernetes
 - Software development
 <!---
 axiom-of-choice/axiom-of-choice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
