@@ -4,6 +4,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and software development
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: alefsubcero@ciencias.unam.mx
+- Visit my web page: http://axiom-of-choice.azurewebsites.net/
 
 ## Skills 👨‍💻
 * Using Python, SQL and R since 2018
