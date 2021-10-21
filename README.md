@@ -1,7 +1,7 @@
 # 👋 Hello, I’m @axiom-of-choice
 ## My name is Isaac, i'm from Mexico and i'm a Mathematician
 - Currently working as chat bot developer 🤖
-- 👀 I’m interested in Data Science, Machine Learning and software development
+- 👀 I’m interested in Data Science, AI, Machine Learning and software development
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: alefsubcero@ciencias.unam.mx
 - Visit my web page: http://axiom-of-choice.azurewebsites.net/
