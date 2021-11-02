@@ -9,12 +9,14 @@
 - http://axiom-of-choice.azurewebsites.net/
 
 ## Skills 👨‍💻
+* Intermediate-Advanced English 🇺🇸 and native Spanish 🇪🇸
 * Using Python, SQL and R since 2018
+* Machine Learning
 * Data Analysis
 * Relational databases
 * Critical thinking, decision-making and problem solving 
 * Communication and soft skills
-* Linux desktop user, and some linux server
+* GNU/Linux desktop user, and some linux server 
 
 ## Currently learning about 🌱
 - Machine Learning in the cloud
