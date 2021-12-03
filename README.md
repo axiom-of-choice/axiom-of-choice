@@ -1,13 +1,12 @@
 # 👋 Hello, I’m @axiom-of-choice
-## My name is Isaac, i'm from Mexico and i'm a Mathematician
-- Currently working as Data Analyst 📈 at [Cargamos](https://www.cargamos.com/)
-- I worked as chat bot developer at [Apli](https://www.apli.jobs/) 🤖
+## My name is Isaac, i'm from Mexico and i'm a Mathematician from [UNAM](https://www.unam.mx/)
+- Currently working as Data Analyst 📈 in [Cargamos](https://www.cargamos.com/)
+- I worked as chat bot developer in [Apli](https://www.apli.jobs/) 🤖
 - 👀 I’m interested in Data Science, AI, Machine Learning and software development
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: alefsubcero@ciencias.unam.mx
-- Visit my web pages: 
+- Visit my web page: 
 - https://axiom-of-choice.herokuapp.com/
-- http://axiom-of-choice.azurewebsites.net/
 
 ## Skills 👨‍💻
 * Intermediate-Advanced English 🇺🇸 and native Spanish 🇪🇸
