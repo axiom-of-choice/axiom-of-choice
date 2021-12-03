@@ -1,5 +1,5 @@
 # 👋 Hello, I’m @axiom-of-choice
-## My name is Isaac, i'm from Mexico and i'm a Mathematician from [UNAM](https://www.unam.mx/)
+## My name is Isaac, i'm from Mexico and i'm a Mathematician.
 - Currently working as Data Analyst 📈 in [Cargamos](https://www.cargamos.com/)
 - I worked as chat bot developer in [Apli](https://www.apli.jobs/) 🤖
 - 👀 I’m interested in Data Science, AI, Machine Learning and software development
