@@ -1,6 +1,6 @@
 # 👋 Hello, I’m @axiom-of-choice
 ## My name is Isaac, and i'm a Data Scientist and Mathematician.
-- Currently working as Data Analyst 📈 in [Cargamos](https://www.cargamos.com/)
+- Currently working as Data Scientist 📈 in [Cargamos](https://www.cargamos.com/)
 - I worked as chat bot developer in [Apli](https://www.apli.jobs/) 🤖
 - 👀 I’m interested in Data Science, AI, Machine Learning Data and Software engineering 
 - 💞️ I’m looking to collaborate on Data Science projects
