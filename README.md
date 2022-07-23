@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: alefsubcero@ciencias.unam.mx
 - Visit my web page: https://axiom-of-choice.herokuapp.com/
+- [https://www.canva.com/design/DAEunVRudO0/AXV2i1hFsD5OEgOE3YWW4Q/view?utm_content=DAEunVRudO0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] Resume: 
 
 ## Skills 👨‍💻
 * Intermediate-Advanced English 🇺🇸 and native Spanish 🇪🇸
