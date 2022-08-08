@@ -9,22 +9,23 @@
 - [Resume](https://www.canva.com/design/DAEunVRudO0/AXV2i1hFsD5OEgOE3YWW4Q/view?utm_content=DAEunVRudO0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Skills 👨‍💻
-* Intermediate-Advanced English 🇺🇸 and native Spanish 🇪🇸
-* Using Python, SQL and R since 2018
+* English (Full Pofessional Proficiency)  🇺🇸 and native Spanish 🇪🇸
+* Python, SQL, R, GCP, Azure (AZ-900 Certficate), Tableau, Docker, Kubernetes.
 * Machine Learning
 * Data Analysis
 * Data Science
-* Relational databases
+* Relational and Document oriented databases
 * Critical thinking, decision-making and problem solving 
 * Communication and soft skills
-* GNU/Linux desktop user, and some linux server 
+* Data Driven Strategies
+* Agile Methodologies
+* GNU/Linux OS
 
 ## Currently learning about 🌱
 - Machine Learning in the cloud
-- Cloud stuff: Azure and AWS
+- Cloud stuff: AWS
 - No SQL databases
 - Data Engineering
-- Docker and Kubernetes
 - Software development
 - JavaScript
 <!---
