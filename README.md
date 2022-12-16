@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Isaac
 ## I'm a Data Scientist and Mathematician.
-- Currently working as Data Scientist 📈 in [Cargamos](https://www.linkedin.com/company/cargamosmx/)
+- Currently working as Senior Machine Learning Engineer in [BBVA AI Factory](https://www.bbvaaifactory.com)
+- Former Data Scientist 📈 in [Cargamos](https://www.linkedin.com/company/cargamosmx/)
 - Former chat bot developer in [Apli](https://www.apli.jobs/) 🤖
 - 👀 I’m interested in Data Science, AI, Machine Learning , Data and Software engineering 
 - 💞️ I’m looking to collaborate on Data Science projects
