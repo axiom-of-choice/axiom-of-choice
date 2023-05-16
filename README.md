@@ -7,7 +7,7 @@
 - 👀 I’m interested in Data Science, AI, Machine Learning , Data and Software engineering 
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: isadohergar@gmail.com
-- Visit my web page: https://axiom-of-choice.herokuapp.com/
+- Visit my LinkedIn: https://www.linkedin.com/in/isaac-hernandez-garcia-9905/ 
 - [Resume](https://www.canva.com/design/DAFScipfP-Q/I7KNPLfdoDwyHWE1p5mbbA/view?utm_content=DAFScipfP-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Skills 👨‍💻
@@ -21,6 +21,10 @@
 * Data Driven Strategies
 * Agile Methodologies
 * GNU/Linux OS
+
+## Certifications 📜
+* [AZ-900](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=jlqG6GsGh69aqvgbIui9eg==)
+* [Tensorflow Developer Certificate](https://www.credential.net/257ddb28-b131-4b23-ac07-ebd029b271be#gs.yb7xmc)
 
 ## Currently learning about 🌱
 - Scala
