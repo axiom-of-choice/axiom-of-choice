@@ -1,7 +1,8 @@
 # 👋 Hello, I’m Isaac
-## I'm a Data Scientist and Mathematician.
-- Currently working as Senior Machine Learning Engineer in [BBVA AI Factory](https://www.bbvaaifactory.com)
-- NLP engineer Consultant at [Botco AI](https://botco.ai/)
+## I'm a ML and Data Engineer.
+- Currently working as Senior Data Engineer in [Citigroup](https://www.citigroup.com/global)
+- NLP Engineer at [Botco AI](https://botco.ai/)
+- Former Senior Machine Learning Engineer in [BBVA AI Factory](https://www.bbvaaifactory.com)
 - Former Data Scientist 📈 in [Cargamos](https://www.linkedin.com/company/cargamosmx/)
 - Former chat bot developer in [Apli](https://www.apli.jobs/) 🤖
 - 👀 I’m interested in Data Science, AI, Machine Learning , Data and Software engineering 
@@ -15,8 +16,8 @@
 * Python,Spark, SQL, AWS, GCP, Azure (AZ-900 Certficate), Tableau, Docker, Kubernetes.
 * Data Engineering
 * Machine Learning
-* Data Analysis
 * Data Science
+* Data Analysis
 * Critical thinking, decision-making and problem solving 
 * Data Driven Strategies
 * Agile Methodologies
