@@ -26,6 +26,7 @@
 ## Certifications 📜
 * [AZ-900](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=414&cvid=jlqG6GsGh69aqvgbIui9eg==)
 * [Tensorflow Developer Certificate](https://www.credential.net/257ddb28-b131-4b23-ac07-ebd029b271be#gs.yb7xmc)
+* [Apache Airflow](https://www.credly.com/badges/9d7d4bea-83c1-4dd2-9c2a-f61137f111d5)
 
 ## Currently learning about 🌱
 - Scala
