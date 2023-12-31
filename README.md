@@ -2,7 +2,7 @@
 ## I'm a ML and Data Engineer.
 - Currently working as: 
   - Senior Machine Learning Engineer in [Nubank](https://international.nubank.com.br/about/)
-  - AI Engineer at [Botco AI](https://botco.ai/)
+  - AI Engineer in [Botco AI](https://botco.ai/)
 - Former Senior Data Engineer in [Citigroup](https://www.citigroup.com/global)
 - Former Senior Machine Learning Engineer in [BBVA AI Factory](https://www.bbvaaifactory.com)
 - Former Data Scientist 📈 in [Cargamos](https://www.linkedin.com/company/cargamosmx/)
