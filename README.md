@@ -14,7 +14,7 @@
 
 ## Skills 👨‍💻
 * English (Full Pofessional Proficiency C1)  🇺🇸 and native Spanish 🇪🇸
-* Python,Spark, SQL, AWS, GCP, Azure (AZ-900 Certficate), Tableau, Docker, Kubernetes.
+* Python,Scala, Apache Spark (Pythond an Scala), SQL, AWS, GCP, Azure (AZ-900 Certficate), Docker, Kubernetes, Tableau.
 * Data Engineering
 * Machine Learning
 * Data Science
@@ -30,7 +30,7 @@
 * [Apache Airflow](https://www.credly.com/badges/9d7d4bea-83c1-4dd2-9c2a-f61137f111d5)
 
 ## Currently learning about 🌱
-- Scala
+- Rust
 <!---
 axiom-of-choice/axiom-of-choice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
