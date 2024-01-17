@@ -6,7 +6,7 @@
 - Former Senior Data Engineer in [Citigroup](https://www.citigroup.com/global)
 - Former Senior Machine Learning Engineer in [BBVA AI Factory](https://www.bbvaaifactory.com)
 - Former Data Scientist 📈 in [Cargamos](https://www.linkedin.com/company/cargamosmx/)
-- 👀 I’m interested in Data Science, AI, Machine Learning , Data and Software engineering 
+- 👀 I’m interested in AI, Machine Learning, Data and Software engineering 
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: isadohergar@gmail.com
 - Visit my LinkedIn: https://www.linkedin.com/in/isaac-hernandez-garcia-9905/ 
@@ -14,11 +14,10 @@
 
 ## Skills 👨‍💻
 * English (Full Pofessional Proficiency C1)  🇺🇸 and native Spanish 🇪🇸
-* Python,Scala, Apache Spark (Pythond an Scala), SQL, AWS, GCP, Azure (AZ-900 Certficate), Docker, Kubernetes, Tableau.
+* Python, Scala, Apache Spark (Python and Scala APIs), SQL, AWS, GCP, Azure (AZ-900 Certficate), Docker, Kubernetes, SQL and NoSQL Databases.
 * Data Engineering
 * Machine Learning
 * Data Science
-* Data Analysis
 * Critical thinking, decision-making and problem solving 
 * Data Driven Strategies
 * Agile Methodologies
@@ -31,6 +30,7 @@
 
 ## Currently learning about 🌱
 - Rust
+- Portuguese
 <!---
 axiom-of-choice/axiom-of-choice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
