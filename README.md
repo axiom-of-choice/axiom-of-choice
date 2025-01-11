@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/axiom-of-choice)
 
