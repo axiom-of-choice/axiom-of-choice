@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Isaac
-## I'm a ML and Data Engineer.
+## I'm a AI and ML Engineer.
 - Currently working as: 
   - Machine Learning Engineer in [Nubank](https://international.nubank.com.br/about/)
   - AI Engineer in [Botco AI](https://botco.ai/)
