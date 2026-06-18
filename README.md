@@ -56,8 +56,6 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 - [LinkedIn](https://www.linkedin.com/in/isaac-hernandez-garcia-9905/)
 - [Website](https://axiom-of-choice.github.io)
-- [Resume](https://canva.link/wqgr898v53m9fnv)
-- Email: isadohergar@gmail.com
 
 ---
 
