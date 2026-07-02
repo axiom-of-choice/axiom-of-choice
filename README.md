@@ -10,7 +10,7 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 ### Currently
 
-- **Staff AI Engineer** @ [VerveMarket](https://vervemarket.com) — Leading AI/Data projects, hybrid search engines, LLM fine-tuning for NER
+- **Staff AI Engineer** @ [VerveMarket](https://vervemarket.com) — Leading AI/Data projects, hybrid search engines, LLM fine-tuning for NER and inference
 - Previously: **Lead AI Engineer** @ Contpaqi | **Lead R&D** @ SoftServe | **Sr ML Engineer** @ [Nubank](https://nubank.com.br/en/) | **Sr Data Engineer** @ [Citigroup](https://www.citigroup.com)
 
 ### Highlights
