@@ -38,6 +38,15 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 - [MLOps Specialization (Duke University)](https://coursera.org/share/95479c26b1e6b75b83aba2d0cb1722fb)
 - TOEFL (C1 English)
 
+### Open Source Contributions
+
+| Project | Framework | Description |
+|---------|-----------|-------------|
+| [langchain-searchapi](https://github.com/axiom-of-choice/langchain-searchapi) | LangChain | Standalone PyPI package — multi-engine search tool + RAG retriever for SearchApi.io |
+| [CrewAI #6434](https://github.com/crewAIInc/crewAI/pull/6434) | CrewAI | SearchApiSearchTool with multi-engine support for agent workflows |
+| [MCP Servers #4459](https://github.com/modelcontextprotocol/servers/pull/4459) | MCP | Configurable timeout support for long-running tool calls |
+| [LangChain Docs #4703](https://github.com/langchain-ai/docs/pull/4703) | LangChain | Official integration docs for SearchApi.io |
+
 ### Featured Projects
 
 | Project | Description |
