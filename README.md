@@ -40,12 +40,24 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 ### Open Source Contributions
 
-| Project | Framework | Description |
-|---------|-----------|-------------|
-| [langchain-searchapi](https://github.com/axiom-of-choice/langchain-searchapi) | LangChain | Standalone PyPI package — multi-engine search tool + RAG retriever for SearchApi.io |
-| [CrewAI #6434](https://github.com/crewAIInc/crewAI/pull/6434) | CrewAI | SearchApiSearchTool with multi-engine support for agent workflows |
-| [MCP Servers #4459](https://github.com/modelcontextprotocol/servers/pull/4459) | MCP | Configurable timeout support for long-running tool calls |
-| [LangChain Docs #4703](https://github.com/langchain-ai/docs/pull/4703) | LangChain | Official integration docs for SearchApi.io |
+Contributions to LLM serving, inference, and agent frameworks — vLLM, Apple MLX, HuggingFace, LangChain, CrewAI, and MCP.
+
+| Project | Framework | Status | Description |
+|---------|-----------|--------|-------------|
+| [langchain-searchapi](https://github.com/axiom-of-choice/langchain-searchapi) | LangChain | Published | Standalone PyPI package — multi-engine search tool + RAG retriever for SearchApi.io |
+| [vllm-gguf-plugin #73](https://github.com/vllm-project/vllm-gguf-plugin/pull/73) | vLLM | Merged | Removed the Blackwell bf16 restriction to unblock GGUF inference on RTX 50-series / B200 — root-caused from a docs bug and fixed at the plugin level at a maintainer's request |
+| [LangChain Docs #4703](https://github.com/langchain-ai/docs/pull/4703) | LangChain | Merged | Official integration docs for SearchApi.io |
+| [mlx-lm #1634](https://github.com/ml-explore/mlx-lm/pull/1634) | Apple MLX | Open | Incremental shard materialization in `save_model` to avoid GPU watchdog timeouts on large checkpoints |
+| [smolagents #2453](https://github.com/huggingface/smolagents/pull/2453) | HuggingFace | Open | `SearchApiSearchTool` with multi-engine support |
+| [smolagents #2454](https://github.com/huggingface/smolagents/pull/2454) | HuggingFace | Open | Memory summarization to prevent context-window overflow on long runs |
+| [smolagents #2455](https://github.com/huggingface/smolagents/pull/2455) | HuggingFace | Open | `chat_history` parameter on `agent.run()` for multi-turn conversations |
+| [smolagents #2460](https://github.com/huggingface/smolagents/pull/2460) | HuggingFace | Open | Preserve successful results when parallel tool calls partially fail |
+| [smolagents #2459](https://github.com/huggingface/smolagents/pull/2459) | HuggingFace | Open | Replaced `assert` with an explicit check in `_validate_final_answer` |
+| [smolagents #2461](https://github.com/huggingface/smolagents/pull/2461) | HuggingFace | Open | Respect an explicit `max_steps=0` via an `is not None` check |
+| [CrewAI #6434](https://github.com/crewAIInc/crewAI/pull/6434) | CrewAI | Open | `SearchApiSearchTool` with multi-engine support for agent workflows |
+| [CrewAI #6440](https://github.com/crewAIInc/crewAI/pull/6440) | CrewAI | Open | Hardened error handling in config parsing, callbacks, and async execution |
+| [MCP Servers #4459](https://github.com/modelcontextprotocol/servers/pull/4459) | MCP | Open | Configurable request timeout for long-running tool calls |
+| [gpt-researcher #1849](https://github.com/assafelovic/gpt-researcher/pull/1849) | gpt-researcher | Open | Use a session for PDF downloads so the configured User-Agent is respected |
 
 ### Featured Projects
 
