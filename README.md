@@ -25,6 +25,7 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 **Languages:** Python, Scala, SQL, Rust (learning)  
 **AI/ML:** TensorFlow, PyTorch, LLMs, RAG, Agents, NLP, MLFlow  
+**Training Data:** synthetic dataset generation, distillation, SFT curation, quantization  
 **Data:** Spark, Airflow, Kafka, Hadoop, dbt  
 **Cloud:** AWS (S3, EKS, SageMaker, Glue, Lambda), GCP (BigQuery, VertexAI), Azure (AZ-900)  
 **Infra:** Docker, Kubernetes, FastAPI, PostgreSQL, MongoDB, Snowflake, Pinecone  
@@ -40,10 +41,12 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 ### Open Source Contributions
 
-Work across LLM serving, on-device inference, observability, and agent frameworks.
+Work across LLM serving, on-device inference, observability, and agent frameworks. Datasets and quantized models on [Hugging Face](https://huggingface.co/axiom-of-choice).
 
 | Project | Area | Status | Contribution |
 |---------|------|--------|--------------|
+| [Bespoke-Stratos-ES](https://huggingface.co/datasets/axiom-of-choice/bespoke-stratos-es) | Dataset / distillation | Published | 16K-row Spanish reasoning dataset for SFT, distilled from DeepSeek V4 Flash. Traces natively generated in Spanish, not machine-translated, gated on language dominance and truncation |
+| [mlx-community](https://huggingface.co/mlx-community/AREX-Turbo-4bit) | Quantization | Published | 4/6/8-bit MLX quantizations of a 4.5B agentic VLM, each evaluated against the bf16 source on perplexity, KL divergence, task accuracy, and blind pairwise LLM-judge quality |
 | [ANEForge](https://github.com/sbryngelson/ANEForge) | Apple Neural Engine | 9 merged | Ongoing contributor: ONNX operator coverage, `linalg` (matrix norms, `matrix_power`, `solve`, `expm`), einsum diagonal extraction, int8 quantization gated on activation-encoding range, and the roofline benchmark harness |
 | [vLLM](https://github.com/vllm-project/vllm-gguf-plugin/pull/73) | LLM serving | Merged | Enabled bf16 GGUF inference on Blackwell (sm_100) by removing a stale device-capability guard, after verifying the Triton and CUDA dequantization backends handle bf16 output |
 | [OpenInference](https://github.com/Arize-ai/openinference) | LLM observability | Merged | Recorded Anthropic cache read/write token details on streaming instrumentation paths |
