@@ -25,6 +25,7 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 **Languages:** Python, Scala, SQL, Rust (learning)  
 **AI/ML:** TensorFlow, PyTorch, LLMs, RAG, Agents, NLP, MLFlow  
+**Training Data:** synthetic dataset generation, distillation, SFT curation, quantization  
 **Data:** Spark, Airflow, Kafka, Hadoop, dbt  
 **Cloud:** AWS (S3, EKS, SageMaker, Glue, Lambda), GCP (BigQuery, VertexAI), Azure (AZ-900)  
 **Infra:** Docker, Kubernetes, FastAPI, PostgreSQL, MongoDB, Snowflake, Pinecone  
@@ -40,12 +41,22 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 
 ### Open Source Contributions
 
-| Project | Framework | Description |
-|---------|-----------|-------------|
-| [langchain-searchapi](https://github.com/axiom-of-choice/langchain-searchapi) | LangChain | Standalone PyPI package — multi-engine search tool + RAG retriever for SearchApi.io |
-| [CrewAI #6434](https://github.com/crewAIInc/crewAI/pull/6434) | CrewAI | SearchApiSearchTool with multi-engine support for agent workflows |
-| [MCP Servers #4459](https://github.com/modelcontextprotocol/servers/pull/4459) | MCP | Configurable timeout support for long-running tool calls |
-| [LangChain Docs #4703](https://github.com/langchain-ai/docs/pull/4703) | LangChain | Official integration docs for SearchApi.io |
+Work across LLM serving, on-device inference, observability, and agent frameworks. Datasets and quantized models on [Hugging Face](https://huggingface.co/axiom-of-choice).
+
+| Project | Area | Status | Contribution |
+|---------|------|--------|--------------|
+| [Bespoke-Stratos-ES](https://huggingface.co/datasets/axiom-of-choice/bespoke-stratos-es) | Dataset / distillation | Published | 16K-row Spanish reasoning dataset for SFT, distilled from DeepSeek V4 Flash. Traces natively generated in Spanish, not machine-translated, gated on language dominance and truncation |
+| [mlx-community](https://huggingface.co/mlx-community/AREX-Turbo-4bit) | Quantization | Published | 4/6/8-bit MLX quantizations of a 4.5B agentic VLM, each evaluated against the bf16 source on perplexity, KL divergence, task accuracy, and blind pairwise LLM-judge quality |
+| [ANEForge](https://github.com/sbryngelson/ANEForge) | Apple Neural Engine | 9 merged | Ongoing contributor: ONNX operator coverage, `linalg` (matrix norms, `matrix_power`, `solve`, `expm`), einsum diagonal extraction, int8 quantization gated on activation-encoding range, and the roofline benchmark harness |
+| [vLLM](https://github.com/vllm-project/vllm-gguf-plugin/pull/73) | LLM serving | Merged | Enabled bf16 GGUF inference on Blackwell (sm_100) by removing a stale device-capability guard, after verifying the Triton and CUDA dequantization backends handle bf16 output |
+| [OpenInference](https://github.com/Arize-ai/openinference) | LLM observability | Merged | Recorded Anthropic cache read/write token details on streaming instrumentation paths |
+| [langchain-searchapi](https://github.com/axiom-of-choice/langchain-searchapi) | LangChain | Published | Standalone PyPI package: multi-engine search tool and RAG retriever for SearchApi.io, plus the official integration docs upstream |
+| [smolagents](https://github.com/huggingface/smolagents/pulls?q=author%3Aaxiom-of-choice) | HuggingFace agents | In review | Multi-engine search tool, memory summarization for long runs, multi-turn `chat_history`, and partial-failure handling for parallel tool calls |
+| [LiteLLM](https://github.com/BerriAI/litellm/pulls?q=author%3Aaxiom-of-choice) | LLM gateway | In review | Bedrock error handling for malformed tool-call arguments; router pre-call checks counting embedding input as text |
+| [MLX](https://github.com/ml-explore/mlx-lm/pull/1634) | Apple Silicon inference | In review | Incremental weight materialization when saving large checkpoints, to avoid the Metal GPU watchdog timeout |
+| [CrewAI](https://github.com/crewAIInc/crewAI/pulls?q=author%3Aaxiom-of-choice) | Agent framework | In review | Multi-engine search tool; error handling in config parsing, callbacks, and async execution |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers/pull/4459) | Agent tooling | In review | Configurable request timeout in the fetch server for long-running tool calls |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher/pull/1849) | Research agents | In review | Session-based PDF downloads so the configured User-Agent is respected |
 
 ### Featured Projects
 
