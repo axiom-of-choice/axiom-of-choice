@@ -19,7 +19,7 @@ AI Engineer with 5+ years of experience building end-to-end AI and data solution
 - Petabyte-scale Data Lake migration at **Citigroup** (S3, Snowflake, Spark on EKS)
 - Agentic AI platforms for healthcare (SoftServe) and accounting (Contpaqi)
 - RAG pipelines and LLM fine-tuning (GPT, LLaMA) at **Botco AI**
-- Anti-fraud graph ML models at **BBVA AI Factory**
+- Anti-fraud graph ML models at **[BBVA AI Factory](https://www.bbvaaifactory.com)**
 
 ### Tech Stack
 
