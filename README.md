@@ -1,6 +1,6 @@
 # Isaac Hernandez
 
-## Staff AI Engineer | ML Engineer | Data Engineer
+## Staff AI Engineer | ML Engineer | Research Engineer | Data Engineer
 
 6+ years experienced AI / Research Engineer building end-to-end AI and data solutions across fintech, healthtech, and e-commerce. Specialized in taking ML models from research to production at scale.
 
