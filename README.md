@@ -2,7 +2,7 @@
 
 ## Staff AI Engineer | ML Engineer | Data Engineer
 
-AI Engineer with 5+ years of experience building end-to-end AI and data solutions across fintech, healthtech, and e-commerce. Specialized in taking ML models from research to production at scale.
+6+ years experienced AI / Research Engineer building end-to-end AI and data solutions across fintech, healthtech, and e-commerce. Specialized in taking ML models from research to production at scale.
 
 **Bachelor of Mathematics**, UNAM (GPA: 92/100)
 
