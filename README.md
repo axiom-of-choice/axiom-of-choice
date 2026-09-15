@@ -62,18 +62,21 @@ Links go to the pull requests.
 | [ANEForge](https://github.com/sbryngelson/ANEForge/pulls?q=author%3Aaxiom-of-choice) | Apple Neural Engine | Ongoing contributor |
 | [mlx](https://github.com/ml-explore/mlx/pulls?q=author%3Aaxiom-of-choice) | Apple Silicon inference | Contributor |
 | [mlx-lm](https://github.com/ml-explore/mlx-lm/pulls?q=author%3Aaxiom-of-choice) | Apple Silicon inference | Contributor |
+| [mlx-vlm](https://github.com/Blaizzy/mlx-vlm/pulls?q=author%3Aaxiom-of-choice) | Vision-language models | Contributor |
 | [vLLM GGUF plugin](https://github.com/vllm-project/vllm-gguf-plugin/pulls?q=author%3Aaxiom-of-choice) | LLM serving | Contributor |
 | [OpenInference](https://github.com/Arize-ai/openinference/pulls?q=author%3Aaxiom-of-choice) | LLM observability | Contributor |
+| [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai/pulls?q=author%3Aaxiom-of-choice) | Model evaluation | Contributor |
+| [Qwen Code](https://github.com/QwenLM/qwen-code/pulls?q=author%3Aaxiom-of-choice) | Coding agent | Contributor |
+| [Harbor](https://github.com/harbor-framework/harbor/pulls?q=author%3Aaxiom-of-choice) | Agent framework | Contributor |
+| [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright/pulls?q=author%3Aaxiom-of-choice) | Scraping | Contributor |
 | [LangChain Docs](https://github.com/langchain-ai/docs/pulls?q=author%3Aaxiom-of-choice) | Documentation | Contributor |
 | [coremltools](https://github.com/apple/coremltools/pull/2814) | Apple Neural Engine | In review |
 | [tokenizers](https://github.com/huggingface/tokenizers/pull/2333) | Tokenization / Rust | In review |
-| [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4832) | Model evaluation | In review |
 | [LiteLLM](https://github.com/BerriAI/litellm/pulls?q=author%3Aaxiom-of-choice) | LLM gateway | In review |
 | [langchain-google](https://github.com/langchain-ai/langchain-google/pulls?q=author%3Aaxiom-of-choice) | LangChain | In review |
 | [smolagents](https://github.com/huggingface/smolagents/pulls?q=author%3Aaxiom-of-choice) | Agent framework | In review |
 | [CrewAI](https://github.com/crewAIInc/crewAI/pulls?q=author%3Aaxiom-of-choice) | Agent framework | In review |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers/pull/4459) | Agent tooling | In review |
-| [gpt-researcher](https://github.com/assafelovic/gpt-researcher/pull/1849) | Research agents | In review |
 
 ### Featured Projects
 
